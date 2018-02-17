@@ -3,3 +3,10 @@ Date : 17 February 2018
 By Budi Wahyu Herlen Adita
 
 Test modified for conlict
+
+Modified
+Tugas 1 APAP Latihan Git
+Date : 17 February 2018
+By Budi Wahyu Herlen Adita
+
+
